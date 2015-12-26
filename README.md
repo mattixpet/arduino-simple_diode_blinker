@@ -15,4 +15,4 @@
   * s3 - in-a-row blink
   * s4 - reset
 
-###### Written 2012.
+###### Written in 2012.
